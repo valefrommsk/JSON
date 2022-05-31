@@ -1,2 +1,2 @@
-# GIT_1
+# JSON
 GIT Homework 1
