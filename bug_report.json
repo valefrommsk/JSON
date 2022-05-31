@@ -13,5 +13,5 @@
     "Actual result": "Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога",
     "Expected result": "Нажатие кнопки Каталог перенаправляет на страницу Каталога",
     "Severity": "Critical",
-    "Priority": "High",
+    "Priority": "High"
 	}
